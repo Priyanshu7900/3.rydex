@@ -1,7 +1,7 @@
 # 🚖 Rydex – AI-Ready Smart Vehicle Booking Platform
 
 <p align="center">
-  <img src="./assets/logo.webp" alt="Rydex Logo" width="180"/>
+  <img src="https://raw.githubusercontent.com/Priyanshu7900/3.rydex/main/rydex/assets/logo.webp" alt="Rydex Logo" width="200"/>
 </p>
 
 <p align="center">
