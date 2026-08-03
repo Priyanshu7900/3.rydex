@@ -14,13 +14,9 @@ Designed to provide a seamless booking experience for users while enabling vehic
 
 ## 🌐 Live Demo
 
-### Frontend (Vercel)
 
 https://3-rydex-ten.vercel.app
 
-### Realtime Socket Server (Render)
-
-https://your-render-url.onrender.com
 
 ---
 
