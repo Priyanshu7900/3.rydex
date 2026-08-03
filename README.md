@@ -1,7 +1,7 @@
 # 🚖 Rydex – AI-Ready Smart Vehicle Booking Platform
 
 <p align="center">
-  <img src="./public/logo.png" width="180" alt="Rydex Logo"/>
+  <img src="./assets/logo.webp" alt="Rydex Logo" width="180"/>
 </p>
 
 <p align="center">
@@ -393,15 +393,6 @@ NEXT_PUBLIC_SOCKET_SERVER_URL=
 
 ---
 
-# 🌐 Live Demo
-
-### 🚀 Production Deployment
-
-**Frontend (Vercel)**
-
-👉 https://3-rydex-ten.vercel.app
-
----
 
 ## 📢 Production Note
 
