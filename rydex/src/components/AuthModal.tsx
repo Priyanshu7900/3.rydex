@@ -63,11 +63,9 @@ function AuthModal({ open, onClose }: propType) {
 
     }
 
-    const handleGoogleLogin = async () => {
-        await signIn("google",{
-            callbackUrl:"/"
-        })
-    }
+   const handleGoogleLogin = async () => {
+    await signIn("google");
+}
 
     const handleChangeOtp=(index:number,value:string)=>{
         if (!/^[0-9]?$/.test(value)) return
